@@ -18,3 +18,4 @@ Jour 17 : Gestion des exceptions en Python
 Jour 18 : Écriture avancée avec format()
 Jour 19 : Encodage de fichiers texte
 Jour 20 : Conclusion et révision
+Jour 21 : Examen 1 
