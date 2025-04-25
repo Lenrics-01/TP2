@@ -1,4 +1,4 @@
-fichier=open("../data/journal.txt", "w", encoding="utf-8")
+fichier=open("data/journal.txt", "w+", encoding="utf-8")
 fichier.write("Jour 1 : Introduction\n")
 fichier.write("Jour 2 : Variables\n")
 fichier.write("Jour 3 : Conditions\n")
