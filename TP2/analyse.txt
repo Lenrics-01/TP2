@@ -1,2 +1,6 @@
 Pour resourdre ce conflit manuellement j'ai juste eu à supprimer les lignes qui
 indiquaient les erreurs pour ensuite garder les informations qui ont été ajoutées.
+3.2 Conflit Git volontaire JSON à créer:
+ Pour resourdre ce conflit manuellement j'ai juste eu à supprimer les lignes qui
+indiquaient les erreurs pour ensuite garder les informations qui ont été ajoutées et 
+supprimer celle que je neveut pas. tous dans le fichier qui se trouve dans la branche *main*
