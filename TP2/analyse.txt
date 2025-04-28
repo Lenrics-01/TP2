@@ -1,0 +1,2 @@
+Pour resourdre ce conflit manuellement j'ai juste eu à supprimer les lignes qui
+indiquaient les erreurs pour ensuite garder les informations qui ont été ajoutées.
