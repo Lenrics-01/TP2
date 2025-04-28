@@ -923,3 +923,334 @@ Les commandes gits utilisés
   303  git switch main
   304  git merge csv-reader
   305  history>> git_commands.txt
+Lensemble des commandes effectuer pour la partie 2
+    1  git add EricGouife.html
+    2  git add git projet.html
+    3  git clone git@gitlab.com:notre-projet-de-r-ve/entreprise-exploration-du-domaine.git
+    4  git config --local user.name "Christian Eric"
+    5  git clone git@gitlab.com:notre-projet-de-r-ve/entreprise-exploration-du-domaine.git
+    6  get push 
+    7  git add git projet.html
+    8  git commit -m 'ajout du fichier vide gitprojet.html'
+    9  git add gitprojet.html
+   10  git add gitprojet.html
+   11  [200~git config --local user.name "Christian Eric"
+   12  git config --local user.name "Christian Eric"
+   13  git config --local user.email "e2479537@cmaisonneuve.qc.ca"
+   14  git clone git@gitlab.com:notre-projet-de-r-ve/entreprise-exploration-du-domaine.git
+   15  git@gitlab.com:notre-projet-de-r-ve/entreprise-exploration-du-domaine.git
+   16  git log
+   17  git add gitprojet.html
+   18  git --config
+   19  git push
+   20  git push into Notre Projet de rêve
+   21  git config --global user.name "Christian Eric"
+   22  git config --global user.email "e2479537@cmaisonneuve.qc.ca"
+   23  git clone git@gitlab.com:notre-projet-de-r-ve/entreprise-exploration-du-domaine.git
+   24  git config --global user.name "Christian Eric"
+   25  git config --global user.email "e2479537@cmaisonneuve.qc.ca"
+   26  git clone https://gitlab.com/notre-projet-de-r-ve/entreprise-exploration-du-domaine.git
+   27  cd C:\Users\user\OneDrive - Collège de Maisonneuve\cours d'exploration du domaine de l'informatique
+   28  cd projet 1
+   29  git add gitprojet.html
+   30  cd desktop
+   31  cd onedrive-collègemaisonneuve
+   32  git config --global user.name "Christian Eric"
+   33  git config --global user.email "e2479537@cmaisonneuve.qc.ca"
+   34  git clone https://gitlab.com/notre-projet-de-r-ve/entreprise-exploration-du-domaine.git
+   35  cd entreprise-exploration-du-domaine
+   36  git add gitprojet.html
+   37  git commit -m 'ajout de fichier vide gitprojet.html'
+   38  git push
+   39  git pull
+   40  git push
+   41  git add gitprojet.html
+   42  git commit -m"changement de la structure de presentation dans gitprojet"
+   43  git push
+   44  git push
+   45  git clone https://gitlab.com/notre-projet-de-r-ve/entreprise-exploration-du-domaine.git 
+   46  git add Ericprofil
+   47  git add [200~C:\Users\user\OneDrive - Collège de Maisonneuve\cours d'exploration du domaine de l'informatique\projet 1\entreprise-exploration-du-domaine~
+   48  cd Ericprofil
+   49  git init
+   50  git config --global user.name "Christian Eric"
+   51  git config --global user.email "e2479537@cmaisonneuve.qc.ca"
+   52  git clone https://gitlab.com/speedix/speedix.git
+   53  dir
+   54  git add équipe.html
+   55  git -m'premier dépot'
+   56  git push
+   57  cd SpeedIx
+   58  git add équipe.html
+   59  git -m'premier dépot'
+   60  git push
+   61  git push
+   62  git config --global user.name "Christian Eric"
+   63  git config --global user.email "e2479537@cmaisonneuve.qc.ca"
+   64  git clone https://gitlab.com/speedix/speedix.git
+   65  git add équipe.html
+   66  git commit -m 'premier dépot'
+   67  git push
+   68  git add Profil_Éric.html
+   69  git commit -m 'mon profil'
+   70  git log
+   71  git push
+   72  https://gitlab.com/speedix/speedix.git
+   73  git add Profil_Éric.html
+   74  git commit -m 'mon profil'
+   75  git commit -m "ajout de mon profil dans le projet SpeedIx"
+   76  git push
+   77  git checkout
+   78  git checkout -b <SpeedIx>
+   79  git log
+   80  git init
+   81  git add Profil.html
+   82  git push speedix/
+   83  cd SpeedIx
+   84  git clone https://gitlab.com/speedix/speedix.git
+   85  cd Ericprofil
+   86  gid add speedix/
+   87  cd../speedix
+   88  cd..
+   89  git add speedix/
+   90  git commit -m "ma realisation"
+   91  git push origin
+   92  git push
+   93  git add speedix/
+   94  git commit -m "ma realisation vrai"
+   95  git add speedix2/
+   96  git commit -m "ma realisation vrai"
+   97  git push
+   98  git rm speedix
+   99  git rm -r speedix
+  100  git rm -r speedix/
+  101  git add Profil_Éric.html
+  102  git commit -m 'mon profil employé'
+  103  git push
+  104  git add fafaafafa.html/ photo/ pageperso/
+  105  git commit -m'mes photos utilisée'
+  106  git push
+  107  git rm speedix2/
+  108  git add *
+  109  git commit -m'modification complète des fichiers'
+  110  git push *
+  111  git push
+  112  git pull
+  113  gid add *
+  114  git add équipe.html
+  115  git add *
+  116  git commit -m"Ajout de Aya dans équipe"
+  117  git push
+  118  git pull
+  119  git add *
+  120  git commit -m"photo"
+  121  git push
+  122  git add *
+  123  git commit -m"dernière modification"
+  124  git push
+  125  git log
+  126  git clone https://gitlab.com/mgrandmontchampagne/420-1c1-projet-2-kit-de-demarrage.git
+  127  git init
+  128  ls -a
+  129  ls .git/
+  130  cat .git/config
+  131  git config --local username "Lenrics-01"
+  132  git config --local user "Lenrics-01"
+  133  git config --local user@name "Lenrics-01"
+  134  git config --local @username "Lenrics-01"
+  135  git config --local @user "Lenrics-01"
+  136  git config --local user.name "Lenrics-01"
+  137  git config --local user.email "e2479537@cmaisonneuve.qc.ca"
+  138  git remote add origin https://github.com/Lenrics-01/TP2.git
+  139  git branch -M main
+  140  git push -u origin main
+  141  ls
+  142  git push
+  143  cd..
+  144  cd ..
+  145  mkdir TP2
+  146  echo "# TP2" >> README.md
+  147  git init
+  148  git add README.md
+  149  git commit -m "first commit"
+  150  git branch -M main
+  151  git remote add origin https://github.com/Lenrics-01/TP2.git
+  152  git push -u origin main
+  153  echo "Les commandes gits utilisés" >>git_commands.txt
+  154  git add git_commands.txt
+  155  ls
+  156  mkdir scripts
+  157  mkdir data
+  158  git commit -m "ajout de git_commands.txt"
+  159  git add scripts
+  160  git commit -m "ajout de scripts"
+  161  git push -u origin main
+  162  git commit -m "ajout de scripts"
+  163  git log
+  164  git push
+  165  git commit -m "ajout de scripts"
+  166  git add scripts
+  167  git add data
+  168  git commit -m "ajout de data"
+  169  ls
+  170  git push
+  171  git add --all scripts/
+  172  git commit -m "ajout de du dossier scripts"
+  173  git add *
+  174  git commit -m "ajout de du dossier scripts"
+  175  ls
+  176  git branch txt-sans-with
+  177  git switch txt-sans-with
+  178  git add scripts
+  179  git commit -m "ajout du dossier scripts"
+  180  python scripts/ecriture_sans_with.py
+  181  python3.9 scripts/ecriture_sans_with.py
+  182  python3.9 scripts/ecriture_sans_with.py
+  183  python3.9 scripts/ecriture_sans_with.py
+  184  python3.9 ecriture_sans_with.py
+  185  ls
+  186  ls data
+  187  cat data/journal.txt
+  188  mv ecriture_sans_with.py scripts/
+  189  ls
+  190  git add scripts
+  191  git commit -m "nouveau scripts"
+  192  git add data
+  193  git commit -m "nouvelle donnée dans data"
+  194  history >> git_commands.txt
+  195  git add git_commands.txt
+  196  git commit -m "nouvelle donnée dans git_commands"
+  197  git branch main
+  198  git branch
+  199  git switch main
+  200  ls
+  201  ls data
+  202  merge txt-sans-with
+  203  git merge txt-sans-with
+  204  history >> git_commands.txt
+  205  git commit -m "nouvelle donnée dans git_commands"
+  206  ls
+  207  ls data
+  208  ls scripts
+  209  git branch txt-avec-with
+  210  git switch txt-avec-with
+  211  git add scripts
+  212  git commit -m "nouveau scripts"
+  213  git switch main
+  214  git merge txt-avec-with
+  215  git branch txt-lecture
+  216  git switch txt-lecture
+  217  ls
+  218  dit add scripts
+  219  git add scripts
+  220  git commit -m "nouveau scripts"
+  221  history >> git_commands.txt
+  222  git commit -m "nouvelle commande dans git_commands"
+  223  git add data
+  224  git commit -m "nouvelle commande dans data"
+  225  git add git_commands.txt
+  226  git commit -m "nouvelle commande dans git_commands"
+  227  git switch main
+  228  git merge txt-lecture
+  229  git branch
+  230  git branch -d txt-sans-with
+  231  git branch -d txt-avec-with
+  232  git branch -d txt-lecture
+  233  git branch
+  234  git commit -m "fin de l'étape 1"
+  235  git add *
+  236  git commit -m "fin de l'étape 1"
+  237  git push
+  238  git push -u origin
+  239  git clone https://github.com/Lenrics-01/TP2.git
+  240  ls
+  241  cd TP2
+  242  ls
+  243  TP2
+  244  cd TP2
+  245  ls
+  246  git switchout -b csv-creation
+  247  git checkout -b csv-creation
+  248  git push
+  249  git push origin
+  250  git push --set-upstream origin csv-creation
+  251  ls
+  252  cd  scripts
+  253  touch creation_csv.py
+  254  git clone git clone https://github.com/hrhouma1/demo2-tkinter.git
+  255  git clone https://github.com/hrhouma1/demo2-tkinter.git
+  256  cd demo2-tkinter
+  257  python -m venv eric
+  258  python -m venv env
+  259  ls
+  260  rm -r env/
+  261  ls
+  262  .eric/Scripts/activate
+  263  cd eric
+  264  ls
+  265  Scripts/activate
+  266  cd ..
+  267  .\eric\Scripts\activate
+  268  pip install PIL
+  269  sudo apt update
+  270  ls Scripts
+  271  ls
+  272  python scripts/creation_csv.py
+  273  ls data
+  274  cat notes.csv
+  275  cat data/notes.csv
+  276  rm data/notes.csv
+  277  python scripts/creation_csv.py
+  278  cat data/notes.csv
+  279  rm data/notes.csv
+  280  python scripts/creation_csv.py
+  281  cat data/notes.csv
+  282  rm data/notes.csv
+  283  python scripts/creation_csv.py
+  284  cat data/notes.csv
+  285  git add scripts/creation_csv.py
+  286  git commit -m "ajout du fichier de création de csv"
+  287  git add data
+  288  git commit -m "ajout du fichier csv"
+  289  branch
+  290  git branch
+  291  git switch
+  292  git switch main
+  293  merge csv-creation
+  294  git merge csv-creation
+  295  git checkout -b csv-reader
+  296  touch scripts/lecture_structurée.py
+  297  python scripts/lecture_structurée.py
+  298  python scripts/lecture_structurée.py
+  299  git add scripts/lecture_structurée.py
+  300  git commit -m "ajout d'un lecteur de fichier csv"
+  301  git branch main
+  302  dit switch main
+  303  git switch main
+  304  git merge csv-reader
+  305  history>> git_commands.txt
+  306  git add git_commands.txt
+  307  git commit -m"ajout des history"
+  308  git checkout -b ajout-etudiant-1
+  309  python scripts/creation_csv.py
+  310  nano data/notes.csv
+  311  git add data
+  312  git commit -m "ajout de donnée dans notes.csv"
+  313  git switch main
+  314  git checkout -b ajout-etudiant-2
+  315  nano data/notes.csv
+  316  git add data
+  317  git commit -m "ajout de donnée dans notes.csv"
+  318  git switch main
+  319  git push
+  320  git merge ajout-etudiant-1 ajout-etudiant-2
+  321  ls
+  322  git branch
+  323  nano data/notes.csv
+  324  git add data
+  325  nano analyse.txt
+  326  ls
+  327  git add analyse.txt
+  328  git commit -m "ajout de analyse.txt"
+  329  echo "Lensemble des commandes effectuer pour la partie 2">>git_commands.txt
+  330  history>>git_commands.txt
