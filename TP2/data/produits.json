@@ -1,0 +1,6 @@
+{
+  "produits": [
+    {"nom": "Clé USB", "prix": 12.5, "promo": true },
+    {"nom": "Stylo", "prix": 2.0}
+  ]
+}
