@@ -1,6 +1,9 @@
-Pour resourdre ce conflit manuellement j'ai juste eu à supprimer les lignes qui
-indiquaient les erreurs pour ensuite garder les informations qui ont été ajoutées.
-3.2 Conflit Git volontaire JSON à créer:
- Pour resourdre ce conflit manuellement j'ai juste eu à supprimer les lignes qui
-indiquaient les erreurs pour ensuite garder les informations qui ont été ajoutées et 
-supprimer celle que je neveut pas. tous dans le fichier qui se trouve dans la branche *main*
+1.	Pourquoi est-il conseillé d'utiliser with open() plutôt que open()/close() ? 
+Réponse : Parce qu’avec with open() on ne risque pas d’oublier de fermer le fichier après l’avoir ouvert car il ferme le fichier automatiquement.
+
+2.	Expliquez précisément comment vous avez résolu les conflits Git créés dans ce TP : 
+Réponse : Pour ressourdre le conflit manuellement j'ai juste eu à supprimer les lignes qui indiquaient les erreurs pour ensuite garder les informations qui ont été ajoutées et supprimer celle que je ne veux pas. tout cela dans le fichier qui se trouve dans la branche *main*
+
+3.	Donnez la commande Git pour restaurer un fichier supprimé accidentellement : 
+Réponse : git restore
+
