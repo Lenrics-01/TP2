@@ -1,4 +1,4 @@
-fichier=open("data/journal.txt", "w", encoding="utf-8")
+with open("data/journal.txt", "w", encoding="utf-8") as fichier:
     fichier.write("Jour 1 : Introduction\n")
     fichier.write("Jour 2 : Variables\n")
     fichier.write("Jour 3 : Conditions\n")
@@ -19,4 +19,7 @@ fichier=open("data/journal.txt", "w", encoding="utf-8")
     fichier.write("Jour 18 : Écriture avancée avec format()\n")
     fichier.write("Jour 19 : Encodage de fichiers texte\n")
     fichier.write("Jour 20 : Conclusion et révision\n")
-fichier.close()
+with open("data/journal.txt", "a", encoding="utf-8") as fichier:
+    fichier.write("Jour 21 : Examen 1 ")
+
+
