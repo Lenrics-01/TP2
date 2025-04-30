@@ -635,3 +635,503 @@ Lensemble des commandes effectuer pour la partie 2
   438  git branch -d numpy-load-analyse
   439  ls
   440  history >> git_commands.txt
+   16  git clone https://gitlab.com/notre-projet-de-r-ve/entreprise-exploration-du-domaine.git
+   17  cd C:\Users\user\OneDrive - Collège de Maisonneuve\cours d'exploration du domaine de l'informatique
+   18  cd projet 1
+   19  git add gitprojet.html
+   20  cd desktop
+   21  cd onedrive-collègemaisonneuve
+   22  git config --global user.name "Christian Eric"
+   23  git config --global user.email "e2479537@cmaisonneuve.qc.ca"
+   24  git clone https://gitlab.com/notre-projet-de-r-ve/entreprise-exploration-du-domaine.git
+   25  cd entreprise-exploration-du-domaine
+   26  git add gitprojet.html
+   27  git commit -m 'ajout de fichier vide gitprojet.html'
+   28  git push
+   29  git pull
+   30  git push
+   31  git add gitprojet.html
+   32  git commit -m"changement de la structure de presentation dans gitprojet"
+   33  git push
+   34  git push
+   35  git clone https://gitlab.com/notre-projet-de-r-ve/entreprise-exploration-du-domaine.git 
+   36  git add Ericprofil
+   37  git add [200~C:\Users\user\OneDrive - Collège de Maisonneuve\cours d'exploration du domaine de l'informatique\projet 1\entreprise-exploration-du-domaine~
+   38  cd Ericprofil
+   39  git init
+   40  git config --global user.name "Christian Eric"
+   41  git config --global user.email "e2479537@cmaisonneuve.qc.ca"
+   42  git clone https://gitlab.com/speedix/speedix.git
+   43  dir
+   44  git add équipe.html
+   45  git -m'premier dépot'
+   46  git push
+   47  cd SpeedIx
+   48  git add équipe.html
+   49  git -m'premier dépot'
+   50  git push
+   51  git push
+   52  git config --global user.name "Christian Eric"
+   53  git config --global user.email "e2479537@cmaisonneuve.qc.ca"
+   54  git clone https://gitlab.com/speedix/speedix.git
+   55  git add équipe.html
+   56  git commit -m 'premier dépot'
+   57  git push
+   58  git add Profil_Éric.html
+   59  git commit -m 'mon profil'
+   60  git log
+   61  git push
+   62  https://gitlab.com/speedix/speedix.git
+   63  git add Profil_Éric.html
+   64  git commit -m 'mon profil'
+   65  git commit -m "ajout de mon profil dans le projet SpeedIx"
+   66  git push
+   67  git checkout
+   68  git checkout -b <SpeedIx>
+   69  git log
+   70  git init
+   71  git add Profil.html
+   72  git push speedix/
+   73  cd SpeedIx
+   74  git clone https://gitlab.com/speedix/speedix.git
+   75  cd Ericprofil
+   76  gid add speedix/
+   77  cd../speedix
+   78  cd..
+   79  git add speedix/
+   80  git commit -m "ma realisation"
+   81  git push origin
+   82  git push
+   83  git add speedix/
+   84  git commit -m "ma realisation vrai"
+   85  git add speedix2/
+   86  git commit -m "ma realisation vrai"
+   87  git push
+   88  git rm speedix
+   89  git rm -r speedix
+   90  git rm -r speedix/
+   91  git add Profil_Éric.html
+   92  git commit -m 'mon profil employé'
+   93  git push
+   94  git add fafaafafa.html/ photo/ pageperso/
+   95  git commit -m'mes photos utilisée'
+   96  git push
+   97  git rm speedix2/
+   98  git add *
+   99  git commit -m'modification complète des fichiers'
+  100  git push *
+  101  git push
+  102  git pull
+  103  gid add *
+  104  git add équipe.html
+  105  git add *
+  106  git commit -m"Ajout de Aya dans équipe"
+  107  git push
+  108  git pull
+  109  git add *
+  110  git commit -m"photo"
+  111  git push
+  112  git add *
+  113  git commit -m"dernière modification"
+  114  git push
+  115  git log
+  116  git clone https://gitlab.com/mgrandmontchampagne/420-1c1-projet-2-kit-de-demarrage.git
+  117  git init
+  118  ls -a
+  119  ls .git/
+  120  cat .git/config
+  121  git config --local username "Lenrics-01"
+  122  git config --local user "Lenrics-01"
+  123  git config --local user@name "Lenrics-01"
+  124  git config --local @username "Lenrics-01"
+  125  git config --local @user "Lenrics-01"
+  126  git config --local user.name "Lenrics-01"
+  127  git config --local user.email "e2479537@cmaisonneuve.qc.ca"
+  128  git remote add origin https://github.com/Lenrics-01/TP2.git
+  129  git branch -M main
+  130  git push -u origin main
+  131  ls
+  132  git push
+  133  cd..
+  134  cd ..
+  135  mkdir TP2
+  136  echo "# TP2" >> README.md
+  137  git init
+  138  git add README.md
+  139  git commit -m "first commit"
+  140  git branch -M main
+  141  git remote add origin https://github.com/Lenrics-01/TP2.git
+  142  git push -u origin main
+  143  echo "Les commandes gits utilisés" >>git_commands.txt
+  144  git add git_commands.txt
+  145  ls
+  146  mkdir scripts
+  147  mkdir data
+  148  git commit -m "ajout de git_commands.txt"
+  149  git add scripts
+  150  git commit -m "ajout de scripts"
+  151  git push -u origin main
+  152  git commit -m "ajout de scripts"
+  153  git log
+  154  git push
+  155  git commit -m "ajout de scripts"
+  156  git add scripts
+  157  git add data
+  158  git commit -m "ajout de data"
+  159  ls
+  160  git push
+  161  git add --all scripts/
+  162  git commit -m "ajout de du dossier scripts"
+  163  git add *
+  164  git commit -m "ajout de du dossier scripts"
+  165  ls
+  166  git branch txt-sans-with
+  167  git switch txt-sans-with
+  168  git add scripts
+  169  git commit -m "ajout du dossier scripts"
+  170  python scripts/ecriture_sans_with.py
+  171  python3.9 scripts/ecriture_sans_with.py
+  172  python3.9 scripts/ecriture_sans_with.py
+  173  python3.9 scripts/ecriture_sans_with.py
+  174  python3.9 ecriture_sans_with.py
+  175  ls
+  176  ls data
+  177  cat data/journal.txt
+  178  mv ecriture_sans_with.py scripts/
+  179  ls
+  180  git add scripts
+  181  git commit -m "nouveau scripts"
+  182  git add data
+  183  git commit -m "nouvelle donnée dans data"
+  184  history >> git_commands.txt
+  185  git add git_commands.txt
+  186  git commit -m "nouvelle donnée dans git_commands"
+  187  git branch main
+  188  git branch
+  189  git switch main
+  190  ls
+  191  ls data
+  192  merge txt-sans-with
+  193  git merge txt-sans-with
+  194  history >> git_commands.txt
+  195  git commit -m "nouvelle donnée dans git_commands"
+  196  ls
+  197  ls data
+  198  ls scripts
+  199  git branch txt-avec-with
+  200  git switch txt-avec-with
+  201  git add scripts
+  202  git commit -m "nouveau scripts"
+  203  git switch main
+  204  git merge txt-avec-with
+  205  git branch txt-lecture
+  206  git switch txt-lecture
+  207  ls
+  208  dit add scripts
+  209  git add scripts
+  210  git commit -m "nouveau scripts"
+  211  history >> git_commands.txt
+  212  git commit -m "nouvelle commande dans git_commands"
+  213  git add data
+  214  git commit -m "nouvelle commande dans data"
+  215  git add git_commands.txt
+  216  git commit -m "nouvelle commande dans git_commands"
+  217  git switch main
+  218  git merge txt-lecture
+  219  git branch
+  220  git branch -d txt-sans-with
+  221  git branch -d txt-avec-with
+  222  git branch -d txt-lecture
+  223  git branch
+  224  git commit -m "fin de l'étape 1"
+  225  git add *
+  226  git commit -m "fin de l'étape 1"
+  227  git push
+  228  git push -u origin
+  229  git clone https://github.com/Lenrics-01/TP2.git
+  230  ls
+  231  cd TP2
+  232  ls
+  233  TP2
+  234  cd TP2
+  235  ls
+  236  git switchout -b csv-creation
+  237  git checkout -b csv-creation
+  238  git push
+  239  git push origin
+  240  git push --set-upstream origin csv-creation
+  241  ls
+  242  cd  scripts
+  243  touch creation_csv.py
+  244  git clone git clone https://github.com/hrhouma1/demo2-tkinter.git
+  245  git clone https://github.com/hrhouma1/demo2-tkinter.git
+  246  cd demo2-tkinter
+  247  python -m venv eric
+  248  python -m venv env
+  249  ls
+  250  rm -r env/
+  251  ls
+  252  .eric/Scripts/activate
+  253  cd eric
+  254  ls
+  255  Scripts/activate
+  256  cd ..
+  257  .\eric\Scripts\activate
+  258  pip install PIL
+  259  sudo apt update
+  260  ls Scripts
+  261  ls
+  262  python scripts/creation_csv.py
+  263  ls data
+  264  cat notes.csv
+  265  cat data/notes.csv
+  266  rm data/notes.csv
+  267  python scripts/creation_csv.py
+  268  cat data/notes.csv
+  269  rm data/notes.csv
+  270  python scripts/creation_csv.py
+  271  cat data/notes.csv
+  272  rm data/notes.csv
+  273  python scripts/creation_csv.py
+  274  cat data/notes.csv
+  275  git add scripts/creation_csv.py
+  276  git commit -m "ajout du fichier de création de csv"
+  277  git add data
+  278  git commit -m "ajout du fichier csv"
+  279  branch
+  280  git branch
+  281  git switch
+  282  git switch main
+  283  merge csv-creation
+  284  git merge csv-creation
+  285  git checkout -b csv-reader
+  286  touch scripts/lecture_structurée.py
+  287  python scripts/lecture_structurée.py
+  288  python scripts/lecture_structurée.py
+  289  git add scripts/lecture_structurée.py
+  290  git commit -m "ajout d'un lecteur de fichier csv"
+  291  git branch main
+  292  dit switch main
+  293  git switch main
+  294  git merge csv-reader
+  295  history>> git_commands.txt
+  296  git add git_commands.txt
+  297  git commit -m"ajout des history"
+  298  git checkout -b ajout-etudiant-1
+  299  python scripts/creation_csv.py
+  300  nano data/notes.csv
+  301  git add data
+  302  git commit -m "ajout de donnée dans notes.csv"
+  303  git switch main
+  304  git checkout -b ajout-etudiant-2
+  305  nano data/notes.csv
+  306  git add data
+  307  git commit -m "ajout de donnée dans notes.csv"
+  308  git switch main
+  309  git push
+  310  git merge ajout-etudiant-1 ajout-etudiant-2
+  311  ls
+  312  git branch
+  313  nano data/notes.csv
+  314  git add data
+  315  nano analyse.txt
+  316  ls
+  317  git add analyse.txt
+  318  git commit -m "ajout de analyse.txt"
+  319  echo "Lensemble des commandes effectuer pour la partie 2">>git_commands.txt
+  320  history>>git_commands.txt
+  321  git add git_commands.txt
+  322  git commit -m "ajout dans git_commands.txt"
+  323  git push
+  324  git branch
+  325  git branch -d csv-reader
+  326  git branch -d csv-creation
+  327  git b
+  328  git branch -d ajout-etudiant-2
+  329  git branch -d ajout-etudiant-1
+  330  git branch -d csv-creation
+  331  git merge csv-creation
+  332  git branch -d csv-creation
+  333  git branch -D csv-creation'
+  334  "
+  335  exit
+  336  git branch
+  337  git branch -D csv-creation
+  338  git push
+  339  git pull
+  340  git add *
+  341  git commit "changement effectué sur les .py"
+  342  ls
+  343  cd TP2
+  344  ls
+  345  cd scripts
+  346  ls
+  347  git add ecriture_sans_with.py
+  348  git commit "changement effectué sur ecriture_sans_with"
+  349  git commit "changement effectué sur ecriture_sans_with.py"
+  350  git commit -m "changement effectué sur ecriture_sans_with.py"
+  351  git add ecriture_avec_with.py
+  352  git commit -m "changement effectué sur ecriture_avec_with.py"
+  353  git push
+  354  cd ..
+  355  cd TP2
+  356  ls
+  357  ls
+  358  git checkout -b csv-brut
+  359  touch scripts/lecture_brute.py
+  360  python scripts/lecture_brute.py
+  361  python scripts/lecture_brute.py
+  362  ls data
+  363  cat notes.csv
+  364  cat data/notes.csv
+  365  python scripts/lecture_brute.py
+  366  python scripts/lecture_brute.py
+  367  git add scripts
+  368  git commit -m "creation du fichier lecture_brute.py"
+  369  git switch main
+  370  git add *
+  371  git commit -m "ajout des modifications"
+  372  ls
+  373  git merge csv-brut
+  374  ls
+  375  cat data/notes
+  376  cat data/notes.csv
+  377  cat analyse.txt
+  378  cat '~$2_parti_word.docx'
+  379  cat 
+  380  git branch
+  381  git merging
+  382  git merge csv-brut
+  383  git add *
+  384  git commit -m "merge resolu"
+  385  git merge csv-brut
+  386  cat scrits/lecture_brute.csv
+  387  cat scripts/lecture_brute.csv
+  388  cat scripts/lecture_brute.py
+  389  git branch -d csv-brut
+  390  git branch
+  391  cat analyse.txt
+  392  git add analyse.txt
+  393  git commit -m "ajout de analyse.txt"
+  394  git push
+  395  git checkout -b numpy-save
+  396  touch scripts/save_numpy.py
+  397  git add scripts
+  398  git commit -m "creation du fichier save_numpy.py"
+  399  python scripts/save_numpy.py
+  400  git add scripts
+  401  git commit -m "creation du fichier save_numpy.py"
+  402  python scripts/save_numpy.py
+  403  python scripts/save_numpy.py
+  404  python scripts/save_numpy.py
+  405  python scripts/save_numpy.py
+  406  ls data
+  407  cat data/fibonacci.csv
+  408  git add scripts
+  409  git commit -m "creation du fichier save_numpy.py"
+  410  git add data
+  411  git commit -m "creation du fichier fibonacci"
+  412  git switch main
+  413  git merge numpy-save
+  414  git branch -d numpy-save
+  415  git checkout -b numpy-load-analyse
+  416  touch scripts/load_analyse_numpy.py
+  417  python scripts/load_analyse_numpy.py
+  418  python scripts/load_analyse_numpy.py
+  419  ls
+  420  python scripts/load_analyse_numpy.py
+  421  git add scripts
+  422  git add *
+  423  git commit -m "creation du fichier load_analyse_numpy.py et du fichier tes.out"
+  424  git add data
+  425  git switch main
+  426  git merge numpy-load-analyse
+  427  git branch
+  428  git branch -d numpy-load-analyse
+  429  ls
+  430  history >> git_commands.txt
+  431  git add git_commands.txt
+  432  git commit -m "ajout dans git_commands.txt"
+  433  git log --oneline --graph
+  434  git add *
+  435  git commit -m "sauvegarde complete pour les etape 1-6"
+  436  git push
+  437  git checkout -b analyse-1
+  438  git switch main
+  439  ls data
+  440  cd TP2
+  441  ls data
+  442  nano data/responses.csv
+  443  ls data
+  444  git add data/responses.csv
+  445  git add data/responses.csv
+  446  git commit -m"creation du fichier responses.csv"
+  447  git branch -d analyse-1
+  448  git checkout -b analyse-1
+  449  rm data/reponses.csv
+  450  git rm data/reponses.csv
+  451  git commit -m "Suppression accidentelle du fichier de réponses"
+  452  ls data
+  453  rm data/reponses.csv
+  454  rm data/responses.csv
+  455  git rm data/responses.csv
+  456  git commit -m "Suppression accidentelle du fichier de réponses"
+  457  git switch main
+  458  git checkout -b analyse-2
+  459  git switch main
+  460  ls data
+  461  nano data/meta.json
+  462  git checkout -b analyse-2
+  463  git switch analyse-2
+  464  import numpy as np
+  465  python /?
+  466  python3.9
+  467  ls
+  468  nano analyse.py
+  469  python analyse.py
+  470  git log
+  471  git checkout main data/responses.csv
+  472  ls data
+  473  git add data/responses.csv
+  474  git commit -m "Restauration du fichier supprimé depuis l’historique"
+  475  rm analyse.py
+  476  git add data
+  477  git commit -m "Restauration du fichier supprimé depuis l’historique"
+  478  touch scripts/analyse_satisfaction.py
+  479  nano scripts/analyse_satisfaction.py
+  480  python scripts/analyse_satisfaction.py
+  481  ls data
+  482  nano scripts/analyse_satisfaction.py
+  483  python scripts/analyse_satisfaction.py
+  484  ls data
+  485  git add scripts 
+  486  git commit -m "creation du fichier analyse_satisfaction"
+  487  python scripts/analyse_satisfaction.py
+  488  python scripts/analyse_satisfaction.py
+  489  git add scripts 
+  490  git commit -m "creation du fichier analyse_satisfaction"
+  491  git branch
+  492  git switch
+  493  git switch main
+  494  git merge analyse-1
+  495  git branch -d analyse-1
+  496  git merge analyse-2
+  497  ls -a
+  498  ls -la
+  499  cd ..
+  500  ls -la
+  501  cd .git
+  502  ls
+  503  cat MERG_MSG
+  504  cd MERG_MSG
+  505  cat MERGE_MSG
+  506  cd ..
+  507  cd TP2
+  508  git commit -m "le merge avec analyse-2 pour complèter mes informations"
+  509  git merge analyse-2
+  510  ls
+  511  git add *
+  512  git commit -m "le merge avec analyse-2 pour complèter mes informations"
+  513  ls data
+  514  ls scripts
+  515  history >> git_commands.txt
