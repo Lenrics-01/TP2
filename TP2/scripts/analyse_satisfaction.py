@@ -4,7 +4,6 @@ import csv
 
 data = np.loadtxt("data/responses.csv", delimiter=",", skiprows=1, usecols=2)
 print(data)
-next(data)
 print("la moyenne est de :", np.mean(data))
 print("la mediane est de :", np.median(data))
 p=[]
